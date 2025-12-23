@@ -51,5 +51,6 @@ UI/UX 디자이너로서 디자인과 프론트엔드 구현을 함께 다루고
 ---
 
 ## 📫 Contact
-- **Email**: jerry.narae@email.com  
+- **Email**: jerry.narae@email.com
+- **Blog**: https://jerryko570.github.io/
 - **GitHub**: https://github.com/jerryko570
