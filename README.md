@@ -17,7 +17,8 @@ UI/UX 디자이너에서 프론트엔드로 넘어가는 중입니다.
 시간은 절약하고 공부는 놓치지 않기 위해,
 최신 공식 블로그 글을 **자동으로 크롤링해서 학습 노트로 정리하는 파이프라인**을 직접 만들어 붙였습니다.
 
-🔗 블로그: <https://jerryko570.github.io/>
+🔗 블로그: <https://jerryko570.github.io/> 
+
 🔗 자동화 구조 정리: [블로그 자동화 세팅 케이스 스터디](https://jerryko570.github.io/posts/blog-automation-case-study/)
 
 ### 자동화 파이프라인 요약
