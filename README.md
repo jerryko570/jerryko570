@@ -19,7 +19,7 @@ UI/UX 디자이너에서 프론트엔드로 넘어가는 중입니다.
 
 🔗 블로그: <https://jerryko570.github.io/> 
 
-🔗 자동화 구조 정리: [블로그 자동화 세팅 케이스 스터디](https://jerryko570.github.io/posts/blog-automation-case-study/)
+🔗 자동화 구조 정리: [블로그 자동화 세팅 케이스 스터디](https://jerryko570.github.io/posts/blog-automation-setup-note/)
 
 ### 자동화 파이프라인 요약
 
