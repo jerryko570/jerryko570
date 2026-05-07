@@ -24,7 +24,7 @@ UI/UX 디자이너에서 프론트엔드로 넘어가는 중입니다.
 ### 자동화 파이프라인 요약
 
 - Python 스크립트가 Figma · React · Vercel · Anthropic 같은 공식 블로그 RSS를 수집
-- GitHub Actions + Claude Code가 3일마다 한 편씩 학습 노트로 재구성
+- GitHub Actions + Claude Code가 1일마다 한 편씩 학습 노트로 재구성
 - 썸네일은 피그마 시안을 기반으로 자동 생성
 
 ---
