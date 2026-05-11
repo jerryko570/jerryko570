@@ -77,11 +77,11 @@ UI/UX 디자이너에서 프론트엔드로 넘어가는 중입니다.
 - GitHub PR 기반 협업
 
 ### Rolling (팀 프로젝트)
-- User Flow 설계 및 UX 흐름 정리 — 디자이너 시절 늘 하던 일이었는데, 이제 그 흐름을 직접 코드로 구현했습니다
-	•	공통 컴포넌트 작업 — Button, Header, RollingCard, RollingSlider, Toast 5개 컴포넌트
-	•	메인·리스트 페이지 구현 — 라우트 구성부터 UI 스타일, 모바일 반응형 처리
-	•	인터랙션 UI 구현 (Swiper 적용) — 카드 슬라이더의 모션과 반응형 처리
-	•	GitHub PR 기반 협업
+- User Flow 설계 및 UX 흐름 정리 — 디자이너 시절 늘 하던 일이었는데, 이제 그 흐름을 직접 코드로 구현했습니다.
+- 공통 컴포넌트 작업 — Button, Header, RollingCard, RollingSlider, Toast 5개 컴포넌트
+- 메인·리스트 페이지 구현 — 라우트 구성부터 UI 스타일, 모바일 반응형 처리
+- 인터랙션 UI 구현 (Swiper 적용) — 카드 슬라이더의 모션과 반응형 처리
+- GitHub PR 기반 협업
 
 ---
 
