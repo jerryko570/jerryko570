@@ -56,10 +56,6 @@ UI/UX 디자이너에서 프론트엔드로 넘어가는 디자인 엔지니어 
 
 ## 📌 프로젝트
 
-### UX Design Portfolio
-> Next.js 기반 원페이지 인터랙티브 UX 디자인 포트폴리오
-- 🔗 UX 포트폴리오: (https://narae-ux-portfolio.vercel.app)
-
 ### Growth Blog with AI Automation
 > 디자인 · 프론트엔드 · AI 트렌드를 스스로 학습하고 기록하기 위한 성장 블로그.
 > GitHub Actions + Claude Code로 학습 노트 파이프라인을 구성했습니다.
