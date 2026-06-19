@@ -24,8 +24,8 @@
 공부 시간을 효율적으로 쓰기 위해 최신 기술 아티클을 직접 찾아 읽는 과정을 자동화했습니다.
 공식 블로그의 RSS를 수집하고, 이를 학습 노트 형태로 재구성해 블로그까지 이어지는 **콘텐츠 자동화 파이프라인**을 구축했습니다.
 
-🔗 블로그: https://jerryko570.github.io/
-🔗 자동화 구조 정리: 블로그 자동화 세팅 케이스 스터디
+- 🔗 블로그: https://jerryko570.github.io/
+- 🔗 자동화 구조 정리: 블로그 자동화 세팅 케이스 스터디
 https://jerryko570.github.io/posts/blog-automation-setup-note/
 
 ### Automation Pipeline
