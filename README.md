@@ -102,6 +102,3 @@ https://jerryko570.github.io/posts/blog-automation-setup-note/
 - **Email**: jerry.narae@email.com
 - **Blog**: <https://jerryko570.github.io/>
 - **GitHub**: <https://github.com/jerryko570>
-
-
-조금만 더 다듬어 줄 수 있어 ?
