@@ -70,7 +70,7 @@ https://jerryko570.github.io/posts/blog-automation-setup-note/
 
 **Butter Weather Shop (Solo Project)**
 
-디자이너가 직접 기획·디자인·개발하는 핸드메이드 악세사리 글로벌 커머스입니다. 0에서 1까지 1인으로 구축 중입니다.
+프로덕트 디자이너가 직접 기획·디자인·개발하는 핸드메이드 악세사리 글로벌 커머스입니다. 0에서 1까지 1인으로 구축 중입니다.
 
 - Next.js 16 (App Router) · TypeScript · Tailwind CSS v4 기반 풀 커스텀 커머스
 - Supabase(Postgres · Auth · Storage) 기반 데이터 설계 및 RLS 보안 정책 구성
