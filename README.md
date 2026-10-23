@@ -70,14 +70,15 @@ https://jerryko570.github.io/posts/blog-automation-setup-note/
 
 **Butter Weather Shop (Solo Project)**
 
-프로덕트 디자이너가 직접 기획·디자인·개발하는 핸드메이드 악세사리 글로벌 커머스입니다. 0에서 1까지 1인으로 구축 중입니다.
+프로덕트 디자이너가 직접 기획·디자인·개발하는 핸드메이드 악세사리 글로벌 커머스입니다. 0에서 1까지 1인으로 구축하며, AI에 맡기는 것을 넘어 코드를 직접 이해하고 운전하는 과정을 단계별 학습 로드맵으로 기록합니다.
 
 - Next.js 16 (App Router) · TypeScript · Tailwind CSS v4 기반 풀 커스텀 커머스
 - Supabase(Postgres · Auth · Storage) 기반 데이터 설계 및 RLS 보안 정책 구성
-- 어드민과 판매 사이트를 공유 DB로 연결한 단일 앱 구조로 설계
-- TanStack Query(서버 상태) · Zustand(장바구니 등 클라이언트 상태) 분리 적용
-- PortOne 결제 연동 (결제 · 검증 · 취소) 및 중복 결제 방지 처리
+- 어드민(write)과 판매 사이트(read)를 공유 DB로 연결한 단일 앱 구조 설계
+- TanStack Query(서버 상태·읽기) · Zustand(클라이언트 상태·쓰기) 분리 — 불변성·구독 기반 상태 흐름을 직접 설계·구현
+- PortOne 결제 연동 (결제 · 검증 · 취소) 및 중복 결제 방지 — 서버 검증 중심 쓰기 흐름(useMutation → Route Handler → service 레이어)
 - 한국어 · 영문 다국어(i18n) 대응 구조 설계 (한국 → 글로벌 확장 목표)
+- 📚 데이터 흐름 · 타입 설계 · 성능 · 테스트까지 단계별 학습 로드맵 운영 (Phase 0 완료 → Phase 1 결제 진행 중)
 
 **Global Nomad (Team Project)**
 
